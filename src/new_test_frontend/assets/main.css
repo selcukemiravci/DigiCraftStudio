@@ -1,0 +1,177 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box; /* Ensure padding doesn't affect overall dimensions */
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 5px;
+    background-color: #340e56; /* Dark purple to fit the theme */
+    color: white; /* For better contrast */
+    padding: 10px;
+    width: 100%; /* Ensure full width coverage */
+    border: none; /* Remove border for a cleaner look */
+    border-radius: 10px;
+    margin: 5px;
+}
+
+button {
+    font-size: large;
+    background-color: #5d3b9e; /* Lighter purple for buttons */
+    border-radius: 15px;
+    border: none; /* Styled to fit the theme without border */
+    padding: 5px 10px;
+    cursor: pointer;
+    color: white; /* Text color changed to white for contrast */
+    margin: 2px;
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+button:hover {
+    background-color: #7c5ab8; /* Slightly lighter purple for hover effect */
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.pixel {
+    width: 20px; /* Fixed size */
+    height: 20px; /* Fixed size */
+    border: 0.5px solid rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    background-color: rgb(255, 255, 255); /* Dark background for each pixel */
+}
+.pixel, .gallery-item {
+    background-color: transparent; /* Make pixel background transparent */
+    border: 0.5px solid rgba(0, 0, 0, 0.25); /* You can remove or keep the border as you prefer */
+}
+
+.gallery-header, .nav-header {
+    text-align: center; /* Center-align text */
+}
+.intro-text {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1); /* Light background for the intro text */
+    border-radius: 10px;
+    color: #FFFFFF; /* Adjust the text color based on your theme */
+}
+
+.intro-text h2 {
+    margin-bottom: 10px;
+}
+
+.intro-text p {
+    font-size: 1.2em; /* Slightly larger text for the paragraph */
+}
+
+.highlight {
+    background-color: #ffcc00; /* Yellow background for highlights */
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.highlightt {
+    background-color: rgb(111, 255, 0); /* Yellow background for highlights */
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.highlighttt {
+    background-color: #00c3ff; /* Yellow background for highlights */
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.highlightttt {
+    background-color: rgb(221, 0, 255); /* Yellow background for highlights */
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.gallery-item {
+    border: 0.5px solid rgba(0, 0, 0, 0.25);
+    background-color: #e3acffe6; /* Background color to match the main drawing area */
+    margin: 10px; /* Add some space around gallery items */
+    text-align: center; /* Center text and button */
+    padding: 10px; /* Add some padding inside gallery items */
+}
+
+.gallery-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Adjust the height as needed */
+}
+
+gallery-item div[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    left: 0;
+    bottom: 100%;
+    white-space: nowrap;
+    z-index: 1;
+    background-color: black;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: smaller;
+}
+
+
+.color {
+    width: 30px;
+    height: 30px;
+    border: 0.5px solid rgba(255, 255, 255, 0.5); /* White border for color boxes */
+    cursor: pointer;
+}
+
+.art-container {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+@keyframes movingGradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  body {
+    /* Set up the animated gradient background */
+    background: linear-gradient(-45deg, #00AABB, #FF7E29, #FF1DCE, #0075FF);
+    background-size: 400% 400%;
+    animation: movingGradient 15s ease infinite;
+    
+    /* Rest of your styles */
+    min-height: 100vh;
+
+  }
+  .nav-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
