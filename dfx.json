@@ -1,19 +1,19 @@
 {
   "canisters": {
-    "new_test_backend": {
-      "main": "src/new_test_backend/main.mo",
+    "test_backend": {
+      "main": "src/test_backend/main.mo",
       "type": "motoko"
     },
-    "new_test_frontend": {
+    "test_frontend": {
       "dependencies": [
-        "new_test_backend"
+        "test_backend"
       ],
       "frontend": {
-        "entrypoint": "src/new_test_frontend/src/index.html"
+        "entrypoint": "src/test_frontend/src/index.html"
       },
       "source": [
-        "src/new_test_frontend/assets",
-        "dist/new_test_frontend/"
+        "src/test_frontend/assets",
+        "dist/test_frontend/"
       ],
       "type": "assets"
     }

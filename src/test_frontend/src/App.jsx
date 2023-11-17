@@ -1,6 +1,6 @@
 import React from "react";
 import { AuthClient } from "@dfinity/auth-client";
-import { test_backend } from "../../declarations/new_test_backend";
+import { test_backend } from "../../declarations/test_backend";
 import html2canvas from "html2canvas";
 import "../assets/main.css"
 import Gallery from "./gallery";

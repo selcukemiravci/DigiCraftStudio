@@ -1,5 +1,5 @@
 import React from "react";
-import { test_backend } from "../../declarations/new_test_backend";
+import { test_backend } from "../../declarations/test_backend";
 
 export default function Gallery() {
     const [artClean, setArtClean] = React.useState([]);
