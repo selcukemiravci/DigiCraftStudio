@@ -1,0 +1,9 @@
+service : {
+  deleteArt: (text) -> ();
+  getArt: (text) -> (opt text);
+  getKeyValuePair: () -> (text);
+  getKeys: () -> (text);
+  getSize: () -> (nat);
+  getValue: () -> (text);
+  setArt: (text, text) -> (nat);
+}

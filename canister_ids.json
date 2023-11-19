@@ -1,8 +1,8 @@
 {
-  "new_test_backend": {
+  "test_backend": {
     "ic": "vrqot-paaaa-aaaao-a2uma-cai"
   },
-  "new_test_frontend": {
+  "test_frontend": {
     "ic": "vwrih-cyaaa-aaaao-a2umq-cai"
   }
 }
