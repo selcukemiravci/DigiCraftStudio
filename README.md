@@ -11,6 +11,8 @@
 ## 🌈 Overview
 Welcome to **LittlePicasso**, a delightful art haven on the Internet Computer where children's creativity takes flight! This is a place for fun, learning, and creating art that stands the test of time. 🖌️🚀
 
+View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
+Watch the Demo [Here](https://www.youtube.com/watch?v=G6pGk25ZMjk)
 ## 🎈 Background
 Crafted with little hands and big imaginations in mind, **LittlePicasso** encourages children to explore their artistic talents. Utilizing the Internet Computer's technology, it offers a limitless virtual canvas where every masterpiece tells a story for generations. 🖼️🧸
 
