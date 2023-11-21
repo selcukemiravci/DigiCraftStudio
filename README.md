@@ -15,6 +15,8 @@ View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
 
 Watch the Demo [Here](https://www.youtube.com/watch?v=G6pGk25ZMjk)
 
+![My Movie 3 (1)](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/84ed6d98-342b-491c-977c-4181b9b9be4f)
+
 ## 🎈 Background
 Crafted with little hands and big imaginations in mind, **LittlePicasso** encourages children to explore their artistic talents. Utilizing the Internet Computer's technology, it offers a limitless virtual canvas where every masterpiece tells a story for generations. 🖼️🧸
 
