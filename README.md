@@ -15,6 +15,10 @@ View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
 
 Watch the Demo [Here](https://www.youtube.com/watch?v=G6pGk25ZMjk)
 
+
+![ezgif-4-c60a9e8647](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/a9b9de36-0ceb-452e-8e22-e025af019d8d)
+
+
 ## 🎈 Background
 Crafted with little hands and big imaginations in mind, **LittlePicasso** encourages children to explore their artistic talents. Utilizing the Internet Computer's technology, it offers a limitless virtual canvas where every masterpiece tells a story for generations. 🖼️🧸
 
@@ -25,8 +29,6 @@ Crafted with little hands and big imaginations in mind, **LittlePicasso** encour
 
 ## 🎨 How It Works
 Jump into the world of **LittlePicasso** with ease! Our platform is designed for quick setup, so young artists can start painting their digital dreams right away. 🌠
-
-![ezgif-4-c60a9e8647](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/a9b9de36-0ceb-452e-8e22-e025af019d8d)
  
 **Key Features:**
 - A child-friendly interface that's simple to use.
