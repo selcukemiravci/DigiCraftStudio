@@ -26,8 +26,8 @@ Crafted with little hands and big imaginations in mind, **LittlePicasso** encour
 ## 🎨 How It Works
 Jump into the world of **LittlePicasso** with ease! Our platform is designed for quick setup, so young artists can start painting their digital dreams right away. 🌠
 
-![ezgif-4-0bf05d356c](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/4e646857-f3ff-4a92-b094-028d29a98b8b)
-
+![ezgif-4-c60a9e8647](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/a9b9de36-0ceb-452e-8e22-e025af019d8d)
+ 
 **Key Features:**
 - A child-friendly interface that's simple to use.
 - Permanent art storage on the blockchain, protecting their creative journey.
