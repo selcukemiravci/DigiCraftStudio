@@ -26,7 +26,7 @@ Crafted with little hands and big imaginations in mind, **LittlePicasso** encour
 ## 🎨 How It Works
 Jump into the world of **LittlePicasso** with ease! Our platform is designed for quick setup, so young artists can start painting their digital dreams right away. 🌠
 
-![My Movie 3 (1)](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/84ed6d98-342b-491c-977c-4181b9b9be4f)
+![ezgif-4-0bf05d356c](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/4e646857-f3ff-4a92-b094-028d29a98b8b)
 
 **Key Features:**
 - A child-friendly interface that's simple to use.
