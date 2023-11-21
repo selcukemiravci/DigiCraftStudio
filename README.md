@@ -11,11 +11,6 @@
 ## 🌈 Overview
 Welcome to **LittlePicasso**, a delightful art haven on the Internet Computer where children's creativity takes flight! This is a place for fun, learning, and creating art that stands the test of time. 🖌️🚀
 
-View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
-
-Watch the Demo [Here](https://www.youtube.com/watch?v=G6pGk25ZMjk)
-
-
 ![My Movie 3 (1)](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/84ed6d98-342b-491c-977c-4181b9b9be4f)
 
 
@@ -54,6 +49,10 @@ Dive into our user guide to begin the adventure in the joyful world of **LittleP
 ## 💻 Setup for LittlePicasso
 
 Ready to start your artistic adventure with LittlePicasso? Follow these steps to set up the project on your local machine. Don't worry, tinkering here won't touch any production deployment or tokens.
+
+View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
+
+Watch the Demo [Here](https://www.youtube.com/watch?v=G6pGk25ZMjk)
 
 ### Dive into the Docs 📚
 
