@@ -11,8 +11,9 @@
 ## 🌈 Overview
 Welcome to **LittlePicasso**, a delightful art haven on the Internet Computer where children's creativity takes flight! This is a place for fun, learning, and creating art that stands the test of time. 🖌️🚀
 
-![My Movie 3 (1)](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/84ed6d98-342b-491c-977c-4181b9b9be4f)
+View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
 
+Watch the Demo [Here](https://www.youtube.com/watch?v=G6pGk25ZMjk)
 
 ## 🎈 Background
 Crafted with little hands and big imaginations in mind, **LittlePicasso** encourages children to explore their artistic talents. Utilizing the Internet Computer's technology, it offers a limitless virtual canvas where every masterpiece tells a story for generations. 🖼️🧸
@@ -24,6 +25,8 @@ Crafted with little hands and big imaginations in mind, **LittlePicasso** encour
 
 ## 🎨 How It Works
 Jump into the world of **LittlePicasso** with ease! Our platform is designed for quick setup, so young artists can start painting their digital dreams right away. 🌠
+
+![My Movie 3 (1)](https://github.com/selcukemiravci/LittlePicasso/assets/53044008/84ed6d98-342b-491c-977c-4181b9b9be4f)
 
 **Key Features:**
 - A child-friendly interface that's simple to use.
@@ -49,10 +52,6 @@ Dive into our user guide to begin the adventure in the joyful world of **LittleP
 ## 💻 Setup for LittlePicasso
 
 Ready to start your artistic adventure with LittlePicasso? Follow these steps to set up the project on your local machine. Don't worry, tinkering here won't touch any production deployment or tokens.
-
-View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
-
-Watch the Demo [Here](https://www.youtube.com/watch?v=G6pGk25ZMjk)
 
 ### Dive into the Docs 📚
 
