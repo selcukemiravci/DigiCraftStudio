@@ -9,7 +9,7 @@
 - [🏅 Benefits](#benefits)
 - [💻 Local Setup](#setup)
 ## 🌈 Overview
-Welcome to **LittlePicasso**, a delightful art haven on the Internet Computer where children's creativity takes flight! This is a place for fun, learning, and creating art that stands the test of time. 🖌️🚀
+Welcome to **LittlePicasso**, a delightful art haven on the Internet Computer where children's creativity takes flight! This is a place for fun, learning, and creating art that stands the test of time. 🖌️🚀 This app has been built during the [ChainShift 2023 Hackathon @UCalgary](https://dorahacks.io/hackathon/ucbs-chainshift/buidl) and has won the **Innovation** track 🏆!
 
 View the Live App [Here](https://vwrih-cyaaa-aaaao-a2umq-cai.icp0.io/)
 
